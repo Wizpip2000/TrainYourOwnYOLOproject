@@ -1,10 +1,1 @@
-Bart
-Homer
-Lisa
-Marge
-Moe
-Flanders
-Krusty
-Burns
-Milhouse
-Skinner
+Face
